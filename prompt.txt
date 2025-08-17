@@ -1,0 +1,13 @@
+Hello, I have a new data analysis task. My verification email is 24ds2000075@ds.study.iitm.ac.in.
+
+I need a Python script that works with a new employee performance dataset. The script must:
+
+Load the employee data, which has the columns: employee_id, department, region, performance_score, years_experience, satisfaction_rating.
+
+Calculate the total number of employees in the "Sales" department and print that number to the console.
+
+Create a bar chart (or histogram) with Matplotlib/Seaborn showing the number of employees in each department.
+
+Combine the Python source code and the generated chart into a single, self-contained HTML file for easy sharing and viewing.
+
+Please provide the complete Python script to accomplish this.
